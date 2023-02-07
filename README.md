@@ -9,9 +9,9 @@ CSS3
 
 ## Demonstração
 
-[![Bikcraft](https://i.imgur.com/i8rahkE.png "Clique para acessar o projeto")](https://islycodes.github.io/bikcraft/web/ "Clique para acessar o projeto")
+[![Bikcraft](https://i.imgur.com/i8rahkE.png "Clique para acessar o projeto")](https://islycodes.github.io/bikcraft-page/web/ "Clique para acessar o projeto")
 
-Você pode acessar o projeto clicando [aqui](https://islycodes.github.io/bikcraft/web/).
+Você pode acessar o projeto clicando [aqui](https://islycodes.github.io/bikcraft-page/web/).
 
 ## Como executar o projeto
 
