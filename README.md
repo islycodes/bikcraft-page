@@ -1,6 +1,6 @@
 ## Sobre
 
-O projeto foi desenvolvido durante o curso de HTML e CSS da Origamid. Durante o curso, aprendemos todos os princípios básicos de UI/UX Design e desenvolvimento front-end. Neste projeto bikcraft há apenas a página inicial, feita no intuito de fixar conceitos de posicionamento de elementos em grid.
+O projeto foi desenvolvido durante o modulo inicial curso de HTML e CSS da Origamid. Durante o curso, aprendemos todos os princípios básicos de UI/UX Design e desenvolvimento front-end. Neste projeto bikcraft há apenas a página inicial, feita no intuito de fixar conceitos de posicionamento de elementos em grid.
 
 ## Tecnologias e ferramentas utilizadas
 
@@ -9,9 +9,9 @@ CSS3
 
 ## Demonstração
 
-[![Bikcraft](https://i.imgur.com/i8rahkE.png "Clique para acessar o projeto")](https://islycodes.github.io/bikcraft/web/ "Clique para acessar o projeto")
+[![Bikcraft](https://i.imgur.com/i8rahkE.png "Clique para acessar o projeto")](https://islycodes.github.io/bikcraft-page/web/ "Clique para acessar o projeto")
 
-Você pode acessar o projeto clicando [aqui](https://islycodes.github.io/bikcraft/web/).
+Você pode acessar o projeto clicando [aqui](https://islycodes.github.io/bikcraft-page/web/).
 
 ## Como executar o projeto
 
