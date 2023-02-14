@@ -17,6 +17,12 @@ a {
   text-decoration: none;
 }
 
+.header {
+  display: grid;
+  justify-items: center;
+  gap: 60px;
+}
+
 p,
 h1,
 h2,
@@ -35,14 +41,18 @@ p {
   gap: 20px;
   justify-content: center;
   list-style: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 .menu a {
-  background: #ffffff;
-  padding: 15px 30px;
+  background: #fff;
+  padding: 1rem 2rem;
   border-radius: 4px;
   color: #000000;
   text-transform: uppercase;
+  display: block;
+  border: 2px solid #fff; /* vai evitar que o botão salte ao adicionar hover */
 }
 
 .conteudo {
@@ -62,9 +72,12 @@ p {
   justify-items: end;
 }
 
+.grid h1 {
+  font-size: 2rem;
+}
+
 .grid::after {
   content: "";
-  display: inline-block;
   width: 60px;
   height: 4px;
   background: #e21;
@@ -77,21 +90,20 @@ p {
   background-color: #f7f7f7;
 }
 
-/* .item:hover::before {
-  width: 4px;
-  height: 120px;
-  background: #e21;
-  display: inline-block;
-  content: "";
-  position: absolute;
-} */
+.item:hover {
+  border-color: #e21;
+}
 
 .botao {
   background: #e21;
   color: #fff;
-  padding: 15px 30px;
+  padding: 1rem 2rem;
   border-radius: 4px;
   text-transform: uppercase;
+}
+
+.botao:hover {
+  background: #900;
 }
 
 .subtitulo {
@@ -114,6 +126,9 @@ p {
   grid-template-columns: auto 1fr;
   gap: 10px 20px;
   padding: 20px;
+  list-style: none;
+  margin: 0px;
+  border-left: 4px solid transparent;
 }
 
 .item p {
@@ -121,7 +136,7 @@ p {
 }
 
 .menu a:hover {
-  border: 2px solid #e21;
+  border-color: #e21;
 }
 
 .rodape {
